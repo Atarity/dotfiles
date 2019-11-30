@@ -2,6 +2,7 @@
 
 | App | Config | Path |
 | -- | -------- | ---- |
+| zsh | `.zshrc` | `~/` |
 | Bash | `.bash_profile` | `~/` |
 | Tmux | `.tmux.conf` | `~/` |
 | iTerm2 | `Afterglow.iterm` | Pref.→ Profiles → Colors → Import |
