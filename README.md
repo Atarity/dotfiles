@@ -1,4 +1,7 @@
 # Dotfiles
+This maintained with the help of [Dotbot](https://github.com/anishathalye/dotbot)
+
+`git clone https://github.com/Atarity/dotfiles.git && cd dotfiles && ./install`
 
 | App | Config | Path |
 | -- | -------- | ---- |
@@ -9,5 +12,4 @@
 | MacOS Terminal | `Afterglow.terminal` | Pref.→ Profiles → Import |
 | htop | `htoprc` | `~/.config/htop/` |
 | ranger | `rc.conf` | `~/.config/ranger/` |
-
 
