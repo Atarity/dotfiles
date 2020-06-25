@@ -1,7 +1,10 @@
 # Dotfiles
 This maintained with the help of [Dotbot](https://github.com/anishathalye/dotbot)
 
-`git clone https://github.com/Atarity/dotfiles.git && cd dotfiles && ./install`
+- `git clone https://github.com/Atarity/dotfiles.git && cd dotfiles && ./install-mac`
+- `git clone https://github.com/Atarity/dotfiles.git && cd dotfiles && ./install-ubuntu`
+- `git clone https://github.com/Atarity/dotfiles.git && cd dotfiles && ./install-rpi`
+
 
 | App | Config | Path |
 | -- | -------- | ---- |

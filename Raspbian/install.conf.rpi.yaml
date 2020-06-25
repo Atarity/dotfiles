@@ -1,0 +1,7 @@
+- clean: ['~']
+
+- link:
+    ~/.bash_profile: Raspbian/.bash_profile
+    ~/.tmux.conf: Raspbian/.tmux.conf
+    ~/.config/htop/htoprc: Raspbian/htoprc
+    ~/.config/ranger/rc.conf: Raspbian/rc.conf

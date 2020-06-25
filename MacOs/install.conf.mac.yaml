@@ -1,6 +1,6 @@
 - clean: ['~']
 
 - link:
-    ~/.zhshrc: MacOS/.zhshrc
+    ~/.zshrc: MacOS/.zshrc
     ~/.bash_profile: MacOS/.bash_profile
     ~/.tmux.conf: MacOS/.tmux.conf

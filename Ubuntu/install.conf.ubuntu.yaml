@@ -1,0 +1,7 @@
+- clean: ['~']
+
+- link:
+    ~/.bash_profile: Ubuntu/.bash_profile
+    ~/.tmux.conf: Ubuntu/.tmux.conf
+    ~/.config/htop/htoprc: Ubuntu/htoprc
+    ~/.config/ranger/rc.conf: Ubuntu/rc.conf
