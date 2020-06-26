@@ -11,6 +11,7 @@ This maintained with the help of [Dotbot](https://github.com/anishathalye/dotbot
 | zsh | `.zshrc` | `~/` |
 | Bash | `.bash_profile` | `~/` |
 | Tmux | `.tmux.conf` | `~/` |
+| Vim | `.vimrc` | `~/` |
 | iTerm2 | `Afterglow.iterm` | Pref.→ Profiles → Colors → Import |
 | MacOS Terminal | `Afterglow.terminal` | Pref.→ Profiles → Import |
 | htop | `htoprc` | `~/.config/htop/` |
