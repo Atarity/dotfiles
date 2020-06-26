@@ -7,5 +7,6 @@
 - link:
     ~/.bash_profile: Raspbian/.bash_profile
     ~/.tmux.conf: Raspbian/.tmux.conf
+    ~/.vimrc: Raspbian/.vimrc
     ~/.config/htop/htoprc: Raspbian/htoprc
     ~/.config/ranger/rc.conf: Raspbian/rc.conf

@@ -7,5 +7,6 @@
 - link:
     ~/.bash_profile: Ubuntu/.bash_profile
     ~/.tmux.conf: Ubuntu/.tmux.conf
+    ~/.vimrc: Ubuntu/.vimrc
     ~/.config/htop/htoprc: Ubuntu/htoprc
     ~/.config/ranger/rc.conf: Ubuntu/rc.conf

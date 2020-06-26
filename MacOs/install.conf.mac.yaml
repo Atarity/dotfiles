@@ -2,5 +2,6 @@
 
 - link:
     ~/.zshrc: MacOS/.zshrc
+    ~/.vimrc: MacOS/.vimrc
     ~/.bash_profile: MacOS/.bash_profile
     ~/.tmux.conf: MacOS/.tmux.conf
