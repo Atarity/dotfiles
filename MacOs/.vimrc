@@ -3,7 +3,7 @@
 " If you don't understand a setting in here, just type ':h setting'.
 
 " Color scheme
-colo default
+color default
 
 " Switch syntax highlighting on
 syntax on
@@ -14,7 +14,7 @@ set backspace=indent,eol,start
 " Enable file type detection and do language-dependent indenting.
 filetype plugin indent on
 
-" Eencoding
+" Encoding
 set encoding=utf-8
 set fileencoding=utf-8
 
