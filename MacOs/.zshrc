@@ -107,4 +107,4 @@ PROMPT="
 
 if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
 export GEM_PATH="$HOME/.gem/ruby/2.7.0/bin"
-export PATH="$GEM_PATH:$PATH"
+export PATH="$GEM_PATH:$PATH"export PATH="/usr/local/sbin:$PATH"
